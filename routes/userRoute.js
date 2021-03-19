@@ -21,7 +21,7 @@ router.get('/:id', (req, res) => {
   });
 
 
-router.post('/', user_create_post);
+router.post('/login', user_create_post);
 
 router.put('/', (req, res) => { 
     res.send('From this endpoint you can modify users.')

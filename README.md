@@ -1,1 +1,3 @@
-# 2021SpringCourseWeek2
+# wop-starters
+
+Choose a branch and download as zip.
